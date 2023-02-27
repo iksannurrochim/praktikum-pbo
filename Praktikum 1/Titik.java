@@ -1,3 +1,7 @@
+/*Nama file	: Titik.java*/
+/*Tanggal	: 22 Februari 2023*/
+/*Penulis	: Iksan Nur Rochim*/
+/*Deskripsi	: kelas yang berisi konstruktor dan mutator untuk membuat titik*/
 class Titik {
 	//atribut
 	double absis;
