@@ -1,3 +1,8 @@
+/*Nama file	: MTitik.java*/
+/*Tanggal	: 22 Februari 2023*/
+/*Penulis	: Iksan Nur Rochim*/
+/*Deskripsi	: kelas yang berisi program utama yang memanfaatkan kelas titik*/
+
 class MTitik {
 	public static void main(String[] args) {
 		Titik t1;
