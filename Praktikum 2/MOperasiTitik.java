@@ -1,7 +1,7 @@
 //Nama file 	: MOperasiTitik.java
 //Pembuat	: Iksan Nur Rochim
 //Tanggal	: 1 Maret 2023
-//Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas titik
+//Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas operasi titik
 
 class MOperasiTitik {
 	public static void main(String[] args) {
