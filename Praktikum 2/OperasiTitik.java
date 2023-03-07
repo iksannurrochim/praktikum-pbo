@@ -3,6 +3,19 @@
 //Tanggal	: 1 Maret 2023
 //Deskripsi	: Kelas yang berisi program utama untuk melakukan operasi dari kelas titik
 
+class OperasiTitik1{
+	public void refleksiSumbuX(Titik T1){
+		double ordinat = titik.getOrdinat();
+		ordinat = ordinat * -1;
+		T1.setOrdinat(ordinat);
+	}
+	public void refleksiSumbuY(Titik T1){
+		double absis = titik.getAbsis();
+		absis = absis * -1;
+		T1.sestAbsis(absis);
+	}
+}
+
 class OperasiTitik{
 	private void refleksiSumbuX(Titik titik){
 		double ordinat = titik.getOrdinat();
