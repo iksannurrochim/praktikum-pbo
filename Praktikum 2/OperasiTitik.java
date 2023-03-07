@@ -5,14 +5,14 @@
 
 class OperasiTitik1{
 	public void refleksiSumbuX(Titik T1){
-		double ordinat = titik.getOrdinat();
+		double ordinat = T1.getOrdinat();
 		ordinat = ordinat * -1;
 		T1.setOrdinat(ordinat);
 	}
 	public void refleksiSumbuY(Titik T1){
-		double absis = titik.getAbsis();
+		double absis = T1.getAbsis();
 		absis = absis * -1;
-		T1.sestAbsis(absis);
+		T1.setAbsis(absis);
 	}
 }
 
